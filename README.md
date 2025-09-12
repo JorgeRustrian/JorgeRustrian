@@ -8,6 +8,8 @@ Desarrollador Backend Jr | Apasionado por Node.js, java, javascript y bases de d
 - Sequelize, hibernate, jpa
 - JavaScript, HTML, CSS, react, angular
 - Git & GitHub
+- SQl server, PostgreSQL, MySQL
+- JWT
 
 ## 💻 Proyectos Destacados
 - [Sistema de Gestión de productos y usuarios](https://github.com/JorgeRustrian/semana2_JorgeRustrian)
