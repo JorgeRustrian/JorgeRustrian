@@ -6,7 +6,8 @@ Desarrollador Backend Jr | Apasionado por Node.js, java, javascript y bases de d
 - Node.js, spring, spring security
 - Express
 - Sequelize, hibernate, jpa
-- JavaScript, HTML, CSS, react, angular
+- HTML, CSS, react, angular
+- Java, Javascript, python
 - Git & GitHub
 - SQl server, PostgreSQL, MySQL
 - JWT
