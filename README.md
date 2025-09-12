@@ -10,7 +10,7 @@ Desarrollador Backend Jr | Apasionado por Node.js, java, javascript y bases de d
 - Git & GitHub
 
 ## 💻 Proyectos Destacados
-- [Sistema de Gestión de Cursos](https://github.com/JorgeRustrian/semana2_JorgeRustrian)
+- [Sistema de Gestión de productos y usuarios](https://github.com/JorgeRustrian/semana2_JorgeRustrian)
 - [API CRUD gestion tareas java+spring+SQL server](https://github.com/JorgeRustrian/springboot-taskmanager)
 - [Curso aprendiendo a programar con un proposito](https://github.com/JorgeRustrian/Coursera-Java)
 
