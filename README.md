@@ -1,6 +1,6 @@
-# Hola, soy Jorge Estuardo 👋
+# 
 
-Desarrollador Backend Jr | Apasionado por Node.js, java, javascript y bases de datos relacionales
+
 
 ## 🚀 Tecnologías
 - Node.js, spring, spring security
@@ -17,7 +17,5 @@ Desarrollador Backend Jr | Apasionado por Node.js, java, javascript y bases de d
 - [API CRUD gestion tareas java+spring+SQL server](https://github.com/JorgeRustrian/springboot-taskmanager)
 - [Curso aprendiendo a programar con un proposito](https://github.com/JorgeRustrian/Coursera-Java)
 
-## 📫 Contacto
-- Email: jorgerustrian7@protonmail.com
 
 
